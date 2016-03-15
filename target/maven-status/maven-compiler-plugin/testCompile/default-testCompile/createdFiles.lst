@@ -1,0 +1,7 @@
+com/devbridge/bookstore/service/UserServiceTest.class
+com/devbridge/bookstore/web/rest/AccountResourceTest.class
+com/devbridge/bookstore/web/rest/UserResourceTest.class
+com/devbridge/bookstore/security/SecurityUtilsTest.class
+com/devbridge/bookstore/web/rest/BookResourceTest.class
+com/devbridge/bookstore/web/rest/TestUtil.class
+com/devbridge/bookstore/web/rest/AuthorResourceTest.class

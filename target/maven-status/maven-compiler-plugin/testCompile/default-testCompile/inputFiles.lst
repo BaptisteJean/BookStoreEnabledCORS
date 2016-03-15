@@ -1,0 +1,7 @@
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/web/rest/BookResourceTest.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/web/rest/TestUtil.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/web/rest/AccountResourceTest.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/service/UserServiceTest.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/web/rest/AuthorResourceTest.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/web/rest/UserResourceTest.java
+/home/wabo/bookStore/src/test/java/com/devbridge/bookstore/security/SecurityUtilsTest.java
